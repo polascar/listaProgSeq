@@ -5,3 +5,6 @@
 👨‍💻👩‍💻 
 
 > Esta lista me ajudou bastante a começar novamente a desenvolver a minha lógica de programação. 
+
+```portugol
+```
