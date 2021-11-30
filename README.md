@@ -4,4 +4,6 @@
 
 ### Esta é a lista de exercícios de programação sequencial, que contém 8 exercícios. 
 
-👨‍💻👩‍💻 > Esta lista me ajudou bastante a começar novamente a desenvolver a minha lógica de programação. 
+👨‍💻👩‍💻 
+
+> Esta lista me ajudou bastante a começar novamente a desenvolver a minha lógica de programação. 
