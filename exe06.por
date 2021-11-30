@@ -9,7 +9,7 @@ programa
 	
 	funcao inicio()
 	{
-		real x1,y1,x2,y2,dx,dy,dSubFinal,dFinal
+		inteiro x1,y1,x2,y2,dx,dy,dSubFinal,dFinal
 		escreva("\nDigite o valor do primeiro ponto(X1): ")
 		leia(x1)
 		escreva("\nDigite o valor do primeiro ponto(Y1): ")
@@ -21,8 +21,9 @@ programa
 
 		dx = ((x2-x1)^2)
 		dy = ((y2-y1)^2)
-		leia(dx,dy)
+		
 		dSubFinal = dx + dy
+		
 		dFinal=mat.raiz(dSubFinal, 2)
 
 		escreva("\nO cálculo resultará em: ",dFinal)
@@ -33,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 699; 
+ * @POSICAO-CURSOR = 659; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
